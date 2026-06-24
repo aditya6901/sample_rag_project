@@ -1,0 +1,9 @@
+ Machine learning Basics
+
+Machine learning is a subset of artificial intelligence that focuses on building systems that can learn from data and improve their performance over time without being explicitly programmed. 
+It involves the use of algorithms and statistical models to analyze and interpret complex data patterns.
+
+Key Concepts:
+- Supervised Learning: In supervised learning, the model is trained on labeled data, where the input-output pairs are provided. The goal is to learn a mapping from inputs to outputs.
+- Unsupervised Learning: In unsupervised learning, the model is trained on unlabeled data, and it aims to find hidden patterns or structures within the data.
+- Reinforcement Learning: In reinforcement learning, an agent learns to make decisions by interacting with an environment and receiving feedback in the form of rewards or penalties.
