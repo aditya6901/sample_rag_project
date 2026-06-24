@@ -1,0 +1,3 @@
+langchain
+lagchain-core
+langchain-community
